@@ -1,6 +1,17 @@
-# Moodland (Server)
+# 🎨 Moodland (Server)
 
-***Express your day in color.***
+> Express your day in color. </br>
+> A place where emotions meet design.
 
-A web app where users log in, pick a color, emoji, and short note that represents their current mood.
-Every user gets a personal mood timeline and there’s a public wall showing everyone’s moods — like an emotional mosaic.
+## ✨ Overview
+
+Moodland is a MERN + Firebase-powered web app that lets users capture their daily mood through colors, emojis, and short reflections.
+Each post paints a piece of their emotional timeline — forming a vibrant, collective mosaic of how everyone feels.
+
+This repo contains the backend (server) for Moodland, built with:
+
+- Express.js for RESTful APIs
+
+- MongoDB + Mongoose for data modeling
+
+- Firebase Authentication for secure user login
